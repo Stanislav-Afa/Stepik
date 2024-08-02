@@ -1,2 +1,2 @@
 # Stepik
-It's test repository
+It's test repository. Just for fun)
